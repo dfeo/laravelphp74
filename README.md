@@ -1,3 +1,5 @@
+# Laravel con las extensiones de ldap y sqlserver
+
 FROM php:7.4-apache
 
 RUN apt-get update && \
